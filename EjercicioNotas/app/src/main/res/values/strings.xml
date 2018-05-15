@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EjercicioNotas</string>
+    <string name="ingrese_nota">Ingrese nota:</string>
+    <string name="ingrese_porcentaje">Ingrese porcentaje:</string>
+    <string name="btnIngresoNota">Registrar Nota</string>
+    <string name="textview">Resultado</string>
+    <string name="promedio">Promedio</string>
+    <string name="lblTotalNotas">TextView</string>
+    <string name="lblNotaPonderacion">TextView</string>
+    <string name="lblNotaFinal">NotaFinal</string>
+    <string name="lblNotaParaCuatro">Nota para aprobar:</string>
+    <string name="lblSituacion">Situación</string>
+
+</resources>
